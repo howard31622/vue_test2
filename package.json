@@ -19,4 +19,8 @@
     "less-loader": "^5.0.0",
     "vue-template-compiler": "^2.6.11"
   }
+  ,
+  
+    "homepage": "./"
+  
 }
